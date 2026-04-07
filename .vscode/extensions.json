@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "yatki.vscode-surround",
+    "pulkitgangwar.nextjs-snippets",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    "dbaeumer.vscode-eslint",
+    "mikestead.dotenv",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "chavyleung.vscode-pnpm-verlens",
+    "YoavBls.pretty-ts-errors"
+  ]
+}

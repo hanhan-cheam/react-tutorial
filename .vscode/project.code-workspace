@@ -1,0 +1,42 @@
+{
+  "folders": [
+    {
+      "name": "apps/pmc",
+      "path": "../apps/pmc",
+    },
+    {
+      "name": "apps/docs",
+      "path": "../apps/docs",
+    },
+    {
+      "name": "apps/csp",
+      "path": "../apps/csp",
+    },
+    {
+      "name": "apps/vitrox",
+      "path": "../apps/vitrox",
+    },
+    {
+      "name": "ROOT",
+      "path": "../",
+    },
+  ],
+  "settings": {},
+  "extensions": {
+    "recommendations": [
+      "yatki.vscode-surround",
+      "heybourn.headwind",
+      "stylelint.vscode-stylelint",
+      "bradlc.vscode-tailwindcss",
+      "pulkitgangwar.nextjs-snippets",
+      "formulahendry.auto-close-tag",
+      "formulahendry.auto-rename-tag",
+      "naumovs.color-highlight",
+      "dbaeumer.vscode-eslint",
+      "mikestead.dotenv",
+      "eamodio.gitlens",
+      "ms-playwright.playwright",
+      "unifiedjs.vscode-mdx",
+    ],
+  },
+}
